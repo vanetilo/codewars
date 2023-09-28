@@ -41,4 +41,4 @@ function switchItUp(number){
         return "Zero"
         break;
     }
-    }
+}
